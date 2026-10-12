@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cerrajeria-tarragona.github.io/Cerrajero-Hospitalet-de-l-Infant/sitemap.xml
